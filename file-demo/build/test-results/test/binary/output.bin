@@ -1,0 +1,2 @@
+t23:05:15.045 [Test worker] INFO FileOperationTest - Absolute path: /Users/ming/code/java-tutotial-samples/file-demo
+u23:05:15.048 [Test worker] INFO FileOperationTest - Canonical path: /Users/ming/code/java-tutotial-samples/file-demo

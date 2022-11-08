@@ -1,0 +1,1 @@
+探究 synchronized 使用

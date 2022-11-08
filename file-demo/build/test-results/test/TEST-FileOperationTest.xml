@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FileOperationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-11-26T15:05:15" hostname="assassin.local" time="0.031">
+  <properties/>
+  <testcase name="showFilePath()" classname="FileOperationTest" time="0.031"/>
+  <system-out><![CDATA[23:05:15.045 [Test worker] INFO FileOperationTest - Absolute path: /Users/ming/code/java-tutotial-samples/file-demo
+23:05:15.048 [Test worker] INFO FileOperationTest - Canonical path: /Users/ming/code/java-tutotial-samples/file-demo
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
